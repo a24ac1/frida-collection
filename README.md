@@ -1,3 +1,3 @@
 # frida-collection
 
-usage : `frida -U -f id.dana -l files-name.js`
+usage : `frida -U -f com.apk -l files-name.js`
